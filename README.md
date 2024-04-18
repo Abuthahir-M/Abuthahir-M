@@ -1,3 +1,8 @@
+Hello! Nice to see you on my Profile :) 
+--------------------------------------------------------------------------------
+I'm dedicated to utilizing technology to unlock actionable insights from data, pioneer automation solutions, and craft cutting-edge web applications. Proficient in Python programming, I specialize in data analysis, web development, and automation."
+--------------------------------------------------------------------------------
+
 - 👋 Hi, I’m @Abuthahir-M
 - 👀 I’m interested in Data Analyst | Python and Web Development...
 - 🌱 I’m currently learning Python ...
