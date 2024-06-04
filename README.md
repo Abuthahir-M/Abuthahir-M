@@ -4,7 +4,7 @@ I'm dedicated to utilizing technology to unlock actionable insights from data, p
 
 --------------------------------------------------------------------------------
 
-- 👋 Hi, I’m @Abuthahir-M
+- 👋 Hi, I’m Syed Abuthahir M
 - 👀 I’m interested in Data Analyst | Python and Web Development...
 - 🌱 I’m currently learning Python and much more...
 
