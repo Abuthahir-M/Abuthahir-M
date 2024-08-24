@@ -6,7 +6,7 @@ I'm dedicated to utilizing technology to unlock actionable insights from data, p
 
 - 👋 Hi, I’m Syed Abuthahir M
 - 👀 I’m interested in Data Science | Python Development...
-- 🌱 Aspiring Data Science and much more...
+- 🌱 Aspiring Data Scientist
 
 <!---
 Abuthahir-M/Abuthahir-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
