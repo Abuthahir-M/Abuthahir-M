@@ -5,7 +5,6 @@ I'm dedicated to utilizing technology to unlock actionable insights from data, p
 --------------------------------------------------------------------------------
 
 - 👋 Hi, I’m Syed Abuthahir M
-- 👀 I’m interested in Data Science | Python Development...
 - 🌱 Aspiring Data Scientist
 
 <!---
